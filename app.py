@@ -11,7 +11,7 @@ import streamlit as st
 # 기본 설정
 # =========================================================
 st.set_page_config(
-    page_title="강환국 ETF 전략 대시보드",
+    page_title="USA ETF 전략 대시보드",
     page_icon="📈",
     layout="wide",
 )
